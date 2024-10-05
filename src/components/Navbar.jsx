@@ -1,3 +1,5 @@
+import {Link} from "react-router-dom";
+
 const Navbar = () => {
     return (
         <header className="bg-indigo-700 p-5">
@@ -7,9 +9,9 @@ const Navbar = () => {
                 </h1>
                 <nav>
                     <ul className="flex space-x-4">
-                        <li><a href="#" className="text-white hover:text-indigo-300">Home</a></li>
-                        <li><a href="#" className="text-white hover:text-indigo-300">Jobs</a></li>
-                        <li><a href="#" className="text-white hover:text-indigo-300">Add Job</a></li>
+                        <li><Link to="/" className="text-white hover:text-indigo-300">Home</Link></li>
+                        <li><Link to="/jobs" className="text-white hover:text-indigo-300">Jobs</Link></li>
+                        <li><Link to="/jobs/add" className="text-white hover:text-indigo-300">Add Job</Link></li>
                     </ul>
                 </nav>
             </div>
