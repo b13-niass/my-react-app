@@ -1,6 +1,9 @@
-import {Link} from "react-router-dom";
+import {NavLink} from "react-router-dom";
 
 const Navbar = () => {
+    const linkClass = ({ isActive }) => isActive ?
+        'text-white bg-black hover:bg-gray-900 hover:text-white rounded-md px-3 py-2':
+        'text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2'
     return (
         <header className="bg-indigo-700 p-5">
             <div className="container mx-auto flex justify-between items-center">
@@ -9,9 +12,9 @@ const Navbar = () => {
                 </h1>
                 <nav>
                     <ul className="flex space-x-4">
-                        <li><Link to="/" className="text-white hover:text-indigo-300">Home</Link></li>
-                        <li><Link to="/jobs" className="text-white hover:text-indigo-300">Jobs</Link></li>
-                        <li><Link to="/jobs/add" className="text-white hover:text-indigo-300">Add Job</Link></li>
+                        <li><NavLink to="/" className={linkClass}>Home</NavLink></li>
+                        <li><NavLink to="/jobs" className={linkClass}>Jobs</NavLink></li>
+                        <li><NavLink to="/jobs/add" className={linkClass}>Add Job</NavLink></li>
                     </ul>
                 </nav>
             </div>
