@@ -34,7 +34,7 @@ export const getTotalJobs = async () => {
 };
 
 export const getQueryJobs = async ({pageParam = 0}) => {
-    const res = await fetch(`/api/jobs?_limit=10&_start=${pageParam}`)
+    const res = await fetch(`https://react-jobs-app-db.onrender.com/jobs?_limit=10&_start=${pageParam}`)
     const data = await res.json();
     const totalJobs = await getTotalJobs();
     return {jobs: data, prevOffset: pageParam,jobsCount: totalJobs};
