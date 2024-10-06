@@ -8,6 +8,7 @@ import AddJobPage from "./pages/AddJobPage.jsx";
 import {addJob, deleteJob, jobLoader, updateJob} from "./api/jobs.js";
 import EditJobPage from "./pages/EditJobPage.jsx";
 
+const apiUrl = import.meta.env.VITE_API_URL;
 const router = createBrowserRouter(
     createRoutesFromElements(
         <Route path="/" element={<MainLayout/>}>
@@ -22,6 +23,7 @@ const router = createBrowserRouter(
 )
 
 const App = () => {
+    console.log(apiUrl);
     return <RouterProvider router={router}/>
 }
 
