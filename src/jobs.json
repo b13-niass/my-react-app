@@ -293,6 +293,34 @@
         "contactEmail": "tybafy@mailinator.com",
         "contactPhone": "+1 (312) 539-8057"
       }
+    },
+    {
+      "id": "20b3",
+      "type": "Part-Time",
+      "title": "Quaerat eius irure s",
+      "location": "Ipsa rerum consequa",
+      "description": "Quo sed neque eligen",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Aeach and Rosario Co",
+        "description": "Suscipit ut voluptat",
+        "contactEmail": "tybssafy@mailinator.com",
+        "contactPhone": "+1 (312) 537-8057"
+      }
+    },
+    {
+      "id": "a8e7",
+      "type": "Part-Time",
+      "title": "Id quos laborum Quo",
+      "location": "Sed culpa ut vel ull",
+      "description": "Mollit aliquip qui i",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Beasley and Guy LLC",
+        "description": "Ut quo laborum labor",
+        "contactEmail": "sefi@mailinator.com",
+        "contactPhone": "775554433"
+      }
     }
   ]
 }
