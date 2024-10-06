@@ -9,6 +9,8 @@ RUN npm i -g serve
 
 COPY . .
 
+ENV VITE_API_URL=https://react-jobs-app-db.onrender.com
+
 RUN npm run build
 
 EXPOSE 3000
