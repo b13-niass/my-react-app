@@ -46,8 +46,8 @@
       "id": "4",
       "title": "React Front-End Developer",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Pheonix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Phoenix, AZ",
       "salary": "$60K - $70K",
       "company": {
         "name": "Alpha Elite",
@@ -81,6 +81,202 @@
         "name": "Port Solutions INC",
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Internship",
+      "description": "We are seeking a motivated junior developer to work with our React development team. This is a great opportunity for a recent graduate or someone early in their career to gain valuable experience in web development.",
+      "location": "Seattle, WA",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "Skyline Innovations",
+        "description": "Skyline Innovations is a forward-thinking tech company focused on delivering sustainable software solutions. Our team is driven by passion for innovation and making a real difference.",
+        "contactEmail": "careers@skylineinnovations.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "Work with a passionate team of developers to build interactive web applications using React.js. The ideal candidate will have strong problem-solving skills and the ability to work in a fast-paced environment.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "Quantum Leap Tech",
+        "description": "Quantum Leap Tech is a leader in the tech industry, delivering state-of-the-art solutions to clients worldwide. We value innovation, creativity, and a commitment to excellence.",
+        "contactEmail": "hr@quantumleaptech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Senior Full Stack Developer",
+      "type": "Contract",
+      "description": "This role involves developing front-end and back-end web applications using React, Node.js, and AWS. Candidates should be highly skilled in cloud architecture and scalable applications.",
+      "location": "Remote",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Edge Innovations",
+        "description": "Edge Innovations is a fast-growing software development firm specializing in custom enterprise solutions. We pride ourselves on creating scalable and efficient software for a wide range of industries.",
+        "contactEmail": "info@edgeinnovations.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React Engineer",
+      "type": "Full-Time",
+      "description": "As a React Engineer, you will be part of a team responsible for building high-performance user interfaces for our clients. The role involves a combination of frontend development and working closely with backend teams.",
+      "location": "Denver, CO",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Pinnacle Software",
+        "description": "Pinnacle Software is a technology company that provides software development services for businesses worldwide. We are known for our innovative solutions and exceptional client service.",
+        "contactEmail": "careers@pinnaclesoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Front-End React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a React developer to join our development team and work on client-facing projects. Experience in agile methodologies and CI/CD pipelines is a plus.",
+      "location": "Chicago, IL",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "TechBurst Solutions",
+        "description": "TechBurst Solutions specializes in creating innovative software for enterprises and startups. We are a fast-paced, dynamic company looking for team members who are passionate about tech.",
+        "contactEmail": "info@techburst.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "We are hiring a React Native Developer to work on our mobile app projects. The ideal candidate will have experience in mobile app development and the ability to work in a collaborative team.",
+      "location": "Austin, TX",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "AppX Solutions",
+        "description": "AppX Solutions is a mobile-first development company that creates cutting-edge apps for various industries. We value teamwork, creativity, and continuous learning.",
+        "contactEmail": "careers@appxsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React Front-End Developer",
+      "type": "Contract",
+      "description": "This contract position involves front-end development using React and Redux. The ideal candidate will be self-motivated and able to work independently on a variety of projects.",
+      "location": "Remote",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Cloudy Days Tech",
+        "description": "Cloudy Days Tech specializes in cloud-based solutions for small to medium-sized businesses. Our team works remotely and collaboratively to deliver high-quality products to our clients.",
+        "contactEmail": "contact@cloudydays.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a senior front-end developer to lead our team in building responsive and scalable web applications using React. Strong leadership skills and attention to detail are required.",
+      "location": "Los Angeles, CA",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "CreativeTech",
+        "description": "CreativeTech is an award-winning digital agency that focuses on creative web development and design. We work with top brands to create unique online experiences.",
+        "contactEmail": "hr@creativetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Developer (Part-Time)",
+      "type": "Part-Time",
+      "description": "We are hiring a part-time React developer to join our remote team. The ideal candidate will have strong front-end skills and be able to work flexible hours.",
+      "location": "Remote",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "RemoteTech Co.",
+        "description": "RemoteTech Co. is a fully remote tech company that specializes in web and mobile development. We are committed to creating a flexible and inclusive work environment.",
+        "contactEmail": "jobs@remotetechco.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Full-Stack Developer (React/Node)",
+      "type": "Full-Time",
+      "description": "As a Full-Stack Developer, you will work on both front-end and back-end systems to create seamless user experiences. Experience with cloud technologies and CI/CD pipelines is required.",
+      "location": "San Diego, CA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "SunTech Solutions",
+        "description": "SunTech Solutions is a technology consulting firm that specializes in creating custom software solutions for businesses. We are a dynamic team of developers, designers, and project managers.",
+        "contactEmail": "contact@suntech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React Developer (Internship)",
+      "type": "Internship",
+      "description": "This internship is perfect for students or recent graduates looking to gain experience in React development. You will work alongside senior developers to build web applications.",
+      "location": "New York, NY",
+      "salary": "$30K - $40K",
+      "company": {
+        "name": "InnovateLabs",
+        "description": "InnovateLabs is a startup incubator focused on helping tech startups grow. We provide mentorship, resources, and support to budding entrepreneurs and developers.",
+        "contactEmail": "internships@innovatlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "18",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are hiring a React.js developer to work on web applications for our e-commerce platform. Experience with responsive design and RESTful APIs is a must.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Ecom Solutions",
+        "description": "Ecom Solutions specializes in building e-commerce platforms for small to medium-sized businesses. Our team is fully remote, and we prioritize work-life balance.",
+        "contactEmail": "careers@ecomsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our mobile development team as a React Native Developer. You will be responsible for building high-performance mobile applications that provide a great user experience.",
+      "location": "Orlando, FL",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "MobileX",
+        "description": "MobileX is a mobile app development company that creates apps for both iOS and Android platforms. We are dedicated to delivering user-friendly, high-performance apps.",
+        "contactEmail": "contact@mobilex.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "As a React Developer, you will be working on a team responsible for building responsive and interactive user interfaces for our SaaS products.",
+      "location": "Philadelphia, PA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "SaaSify",
+        "description": "SaaSify is a leading provider of SaaS solutions for businesses of all sizes. Our goal is to simplify business operations with easy-to-use and scalable software.",
+        "contactEmail": "jobs@saasify.com",
         "contactPhone": "555-555-5555"
       }
     }
