@@ -3,9 +3,9 @@ import HomePage from "./pages/HomePage";
 import MainLayout from "./layouts/MainLayout";
 import JobsPage from "./pages/JobsPage";
 import NotFoundPage from "./pages/NotFoundPage";
-import JobPage, {jobLoader} from "./pages/JobPage";
+import JobPage from "./pages/JobPage";
 import AddJobPage from "./pages/AddJobPage.jsx";
-import {addJob, deleteJob, updateJob} from "./api/jobs.js";
+import {addJob, deleteJob, jobLoader, updateJob} from "./api/jobs.js";
 import EditJobPage from "./pages/EditJobPage.jsx";
 
 const router = createBrowserRouter(
