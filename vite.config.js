@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3003,
     proxy: {
       '/api': {
-        target: 'http://localhost:8084',
+        target: 'https://react-jobs-app-db.onrender.com',
         changeOrigin: true,
         rewrite: path => path.replace(/^\/api/, '')
       }
