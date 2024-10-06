@@ -28,7 +28,7 @@ export const updateJob = async (job) =>{
 }
 
 export const getTotalJobs = async () => {
-    const response = await fetch('/api/jobs');
+    const response = await fetch('https://react-jobs-app-db.onrender.com/jobs');
     const jobs = await response.json();
     return jobs.length; // Returns the total number of jobs
 };
